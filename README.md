@@ -1,7 +1,6 @@
 # FarmDome
 
-Este Aplicativo feito em Ionic teve por objetivo criar uma plataforma mobile para a empresa FarmDome baseado em sua plataforma web existente.
-O App Mobile consome a API disponibilizada pela própria versão Web do sistema.
+The FarmDome Mobile App is developed using Ionic to extend the functionality of the existing FarmDome web platform to mobile devices. This app interacts with the API provided by the FarmDome web system to offer a seamless experience across platforms.
 
 ## Prerequisites
 
